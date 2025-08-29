@@ -40,8 +40,5 @@
 ---
 
 ### 🔍 Focus & Interests
-⭐ **Game Reverse Engineering (Assembly & low-level)** — memory, anti-cheat evasion research, engine internals.
+⭐ **Game Reverse Engineering (Assembly & low-level)** — memory, cheat, anti-cheat evasion, engine internals.
 
----
-
-📩 Always open to collaborate and build cool projects together!
