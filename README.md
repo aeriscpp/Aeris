@@ -22,8 +22,9 @@
 ### 📚 Currently Studying
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://img.icons8.com/fluent/512/tailwind_css.png)" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" height="40" alt="Assembly" />
 </p>
 
 ---
@@ -31,14 +32,22 @@
 ### 🎮 Game Development Experience
 - Unity  
 - Roblox  
-- Minecraft (plugins/mods)  
-- Vercel (deploys e projetos fullstack)  
+- Minecraft (plugins only)  
+- Vercel (deploys and fullstack projects)  
 
 ---
 
 ### 🔍 Other Interests
-- Backend Development  
-- Game Reverse Engineering (Assembly & low-level stuff)  
+⭐ **Game Reverse Engineering (Assembly & low-level stuff)**  
+Focused on understanding how games work internally, memory management and security.  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
