@@ -22,11 +22,9 @@
 ### 📚 Currently Studying
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/fluent/512/tailwind_css.png" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <!-- Assembly (não existe no Devicon) -> usando Simple Icons como placeholder visual -->
-  <img src="https://cdn.simpleicons.org/assemblyscript/000000" height="40" alt="Assembly (ASM)" title="Assembly (ASM)" />
-  <!-- Extra: ferramenta de RE que representa bem teu foco -->
+  <img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" height="40" alt="Assembly (ASM)" title="Assembly (ASM)" />
   <img src="https://cdn.simpleicons.org/ghidra/DA2C2C" height="40" alt="Ghidra" title="Reverse Engineering" />
 </p>
 
@@ -42,14 +40,6 @@
 
 ### 🔍 Focus & Interests
 ⭐ **Game Reverse Engineering (Assembly & low-level)** — memory, anti-cheat evasion research, engine internals.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical" height="160" />
-</p>
 
 ---
 
