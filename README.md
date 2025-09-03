@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Johnny
+# 👋 Hey, I'm Jhonny
 
 🎓 Computer Science Student | 💻 Backend-focused Developer
 
