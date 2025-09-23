@@ -21,9 +21,6 @@
 
 ### 📚 Currently Studying
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://img.icons8.com/fluent/512/tailwind_css.png" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://goktugaygun.com/images/skills/PL/Assembly.png" height="40" alt="Assembly (ASM)" title="Assembly (ASM)" />
   <img src="https://avatars.githubusercontent.com/u/75212346?v=4" height="40" alt="Ghidra" title="Reverse Engineering" />
   <img src="https://static.wikitide.net/zenithwiki/0/0d/IDAIcon.png" height="40" alt="IDA" title="Reverse Engineering" />
